@@ -1,0 +1,27 @@
+body {
+  background-color:#ce3b31a2;
+  font-family: sans-serif;
+}
+
+.navbar {
+  background-color: #27ad8065;
+  border-radius: 2px;
+  max-width: 800px;
+}
+
+.navbar a {
+  color: #aaa;
+  display: inline-block;
+  font-size: 15px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #ffffff;
+}
+
+form{
+  border-radius: 0px;
+  background-color: #188f00;
+}
